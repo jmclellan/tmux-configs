@@ -1,1 +1,1 @@
-cp tmux.conf ~/.tmux/tmux.conf
+cp tmux.conf ~/.tmux.conf
